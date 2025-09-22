@@ -1,8 +1,6 @@
 
 
 # ===== Project: Daily Linux (macOS) System Report =====
-# 📍 Author: Antik Mondal
-# 🗓️  Date: $(date)
 # 📄 Description: This script collects basic system info, compresses it into a report, and stores it for review.
 
 # === Step 1: Setup Variables ===
